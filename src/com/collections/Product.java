@@ -6,6 +6,7 @@ public class Product{
 	int id;
 	String name;
 	double price ;
+	String loc;
 	
 	public Product(int id, String name, double price) {
 		super();
